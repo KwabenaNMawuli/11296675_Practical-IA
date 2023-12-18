@@ -5,7 +5,7 @@ Prerequisites
 Installation
 
 About
-The project is an implementation of a e-Medical System for the University of Ghana. It has several functionalities that allow it to work as a backend REST API which makes use of developed using Node Js with the Express Framework and MongoDB. Functionalities include: creating a patient registration functionality, an update functionality, a visitation scheduling functionality, an patient vitals functionality and a view of the number of patients. Functionally the code runs the functionality of creating a patient registation partially.
+The project is an implementation of an e-Medical System for the University of Ghana. It has several functionalities that allow it to work as a backend REST API which makes use of developed using Node Js with the Express Framework and MongoDB. Functionalities include: creating a patient registration functionality, an update functionality, a visitation scheduling functionality, an patient vitals functionality and a view of the number of patients. Functionally the code runs the functionality of creating a patient registation partially.
 
 Prerequisites 
 Node.js
